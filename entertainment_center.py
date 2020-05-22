@@ -40,7 +40,7 @@ the_gods_must_be_crazy = media.Movie(
 			"among a normally peaceful tribe of African bushmen" 
 			"who believe it to be a utensil of the gods. "
 			"- Directed by Jamie Uys(imbd.com)",
-            "Comedy/Slapstick ", "Nǃxau ǂToma", " Jamie Uys", "1980",
+            "Comedy/Slapstick ", "Nxau Toma", " Jamie Uys", "1980",
             "https://www.gstatic.com/tv/thumb/v22vodart/8763/p8763_v_v8_aa.jpg",  # noqa
             "https://www.youtube.com/watch?v=3EG0dH1oN7k")  # noqa
 			
